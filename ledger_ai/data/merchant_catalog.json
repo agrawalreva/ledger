@@ -1,0 +1,102 @@
+[
+  {
+    "merchant_id": "m-ret-001",
+    "name": "Northwind Retail Co",
+    "category": "retail"
+  },
+  {
+    "merchant_id": "m-ret-002",
+    "name": "Atlas Outfitters",
+    "category": "retail"
+  },
+  {
+    "merchant_id": "m-ret-003",
+    "name": "Harbor Street Market",
+    "category": "retail"
+  },
+  {
+    "merchant_id": "m-saas-01",
+    "name": "Vertex Cloud Systems",
+    "category": "SaaS"
+  },
+  {
+    "merchant_id": "m-saas-02",
+    "name": "LedgerFlow Analytics",
+    "category": "SaaS"
+  },
+  {
+    "merchant_id": "m-saas-03",
+    "name": "Northline CRM",
+    "category": "SaaS"
+  },
+  {
+    "merchant_id": "m-log-001",
+    "name": "Continental Freight",
+    "category": "logistics"
+  },
+  {
+    "merchant_id": "m-log-002",
+    "name": "Pacific Parcel Network",
+    "category": "logistics"
+  },
+  {
+    "merchant_id": "m-log-003",
+    "name": "Ironhorse Trucking",
+    "category": "logistics"
+  },
+  {
+    "merchant_id": "m-food-01",
+    "name": "Copperline Catering",
+    "category": "food"
+  },
+  {
+    "merchant_id": "m-food-02",
+    "name": "Urban Grain Bistro",
+    "category": "food"
+  },
+  {
+    "merchant_id": "m-food-03",
+    "name": "Summit Provisions",
+    "category": "food"
+  },
+  {
+    "merchant_id": "m-trv-001",
+    "name": "Meridian Travel Group",
+    "category": "travel"
+  },
+  {
+    "merchant_id": "m-trv-002",
+    "name": "Silverwing Airlines Desk",
+    "category": "travel"
+  },
+  {
+    "merchant_id": "m-util-01",
+    "name": "Gridline Utilities",
+    "category": "utilities"
+  },
+  {
+    "merchant_id": "m-util-02",
+    "name": "Clearwater Energy Co",
+    "category": "utilities"
+  },
+  {
+    "merchant_id": "m-ret-004",
+    "name": "Sterling Home Goods",
+    "category": "retail"
+  },
+  {
+    "merchant_id": "m-saas-04",
+    "name": "Obsidian Security Suite",
+    "category": "SaaS"
+  },
+  {
+    "merchant_id": "m-log-004",
+    "name": "BlueAnchor Maritime",
+    "category": "logistics"
+  },
+  {
+    "merchant_id": "m-food-04",
+    "name": "Riverside Commissary",
+    "category": "food"
+  }
+]

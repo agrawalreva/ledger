@@ -1,0 +1,12 @@
+streamlit>=1.35.0
+langchain>=0.2.0
+langchain-groq>=0.1.6
+groq>=0.9.0
+sentence-transformers>=3.0.0
+snowflake-connector-python>=3.10.0
+plotly>=5.22.0
+pandas>=2.2.0
+numpy>=1.26.0
+faker>=25.0.0
+scikit-learn>=1.5.0
+python-dotenv>=1.0.0

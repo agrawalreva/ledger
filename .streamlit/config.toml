@@ -1,0 +1,9 @@
+# Slimmer chrome; does not remove Streamlit's "c" = clear cache when canvas is focused.
+[client]
+toolbarMode = "minimal"
+
+# Streamlit's watcher walks imported packages; `transformers` (from sentence-transformers)
+# lazy-loads vision submodules that require `torchvision` → noisy ModuleNotFoundError spam.
+# "none" = no file watcher (restart the app after code changes). Use "auto" if you install torch+torchvision.
+[server]
+fileWatcherType = "none"
